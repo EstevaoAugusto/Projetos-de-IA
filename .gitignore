@@ -1,0 +1,31 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Caches e logs
+*.log
+*.sqlite3
+*.db
+
+# Ambientes virtuais
+venv/
+env/
+ENV/
+.venv/
+
+# Distribuição / build
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# IDEs e editores
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
